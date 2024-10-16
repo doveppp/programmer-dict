@@ -19,5 +19,10 @@
 |--------------------|-------------------------------------------------------------------|
 | Microsoft (Office) | C:\Users\\~\AppData\Roaming\Microsoft\UProof\CUSTOM.DIC            |
 | WPS                | C:\Users\\~\AppData\Roaming\kingsoft\office6\en_CH\CUSTOM.DIC        |
-| Typora             | C:\Users\\~\AppData\Roaming\Typora\typora-dictionaries\user-dict.json |
+| Typora             | C:\Users\\~\AppData\Roaming\Typora\typora-dictionaries\user-dict.json [注1](#annotate1) |
+
+---
+
+<a id="annotate1"></a>
+注1：Typora user-dict.jso 中的文件格式为`{"en-US":["MySQL","GPU","VUE3","Vue","WebSocket"]}`
 
